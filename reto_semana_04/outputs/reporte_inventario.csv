@@ -1,0 +1,4 @@
+sku,nombre,unidades_faltantes,valor_inventario
+SKU_TEST,Producto_Bajo,8,200.00
+SKU001,Laptop,5,75000.00
+SKU003,Monitor,3,16000.00
