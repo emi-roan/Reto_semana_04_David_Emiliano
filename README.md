@@ -1,4 +1,6 @@
-Reporte Técnico: Arquitectura Modular para Gestión de Inventarios Desarrollador: David Emiliano Rodríguez Anduiza
+Arquitectura Modular para Gestión de Inventarios Desarrollador
+
+Alumno: David Emiliano Rodríguez Anduiza
 
 Carrera: Ciencia de Datos - ESCOM (IPN)
 
@@ -41,10 +43,3 @@ data/ vs outputs/: Separación física entre datos de entrada (fuente de verdad)
 Control de Versiones: Se utilizó Git para el seguimiento de cambios, asegurando que cada etapa del desarrollo (limpieza, modularización y documentación) quedara registrada en el historial del repositorio.
 
 Conclusión Técnica La implementación de este sistema demuestra el dominio de conceptos avanzados como la abstracción de funciones, el manejo de excepciones y la organización de código en módulos independientes. Esta arquitectura permite que, en el futuro, podamos cambiar la base de datos de un CSV a una SQL o una API sin necesidad de reescribir la lógica de los productos o las validaciones.
-🚀 ¿Qué hacer con esto? Copia todo el texto de arriba (desde el título hasta la conclusión).
-
-Pégalo en tu README.md.
-
-Súbelo a GitHub:
-
-PowerShell git add . git commit -m "docs: added extensive technical documentation and architecture breakdown" git push origin main
