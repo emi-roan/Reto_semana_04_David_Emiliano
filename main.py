@@ -83,7 +83,8 @@ def main():
         print(f"Total productos válidos: {len(productos)}")
         print(f"Productos para reorden: {len(productos_reorden)}")
 
-        escribir_reporte(ruta_salida, productos_reorden)
+        # Aquí llamamos a la función con el orden correcto: (Lista, Ruta)
+        escribir_reporte(productos_reorden, ruta_salida)
 
         print(f"Reporte generado exitosamente en: {ruta_salida}")
 
